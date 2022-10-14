@@ -1,5 +1,5 @@
 anytree
-aria2p
+git+https://github.com/orlandokc/areap
 asyncio
 beautifulsoup4
 cfscrape
@@ -21,11 +21,11 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
+git+https://github.com/orlandokc/qbss
 requests
 SecretStorage
 telegraph
 tenacity
 tgCrypto
 xattr
-yt-dlp
+git+https://github.com/orlandokc/ylp
